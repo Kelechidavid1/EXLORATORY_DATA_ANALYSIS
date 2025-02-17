@@ -1,2 +1,2 @@
 # EXLORATORY DATA ANALYSIS
- This project highlights the various techniques by which a raw dataset was cleaned and transformed into a usable format for further analysis. The purpose of this project was to clean and transform raw data obtained into a more refined dataset. The data used was gotten from the web and the link is provided: Raw Dataset.
+ Explored and analyzed a large dataset using SQL to uncover key insights. Focused on data cleaning, identifying patterns, and generating actionable insights for decision-making. The data used was gotten from the web and the link is provided: [Raw Dataset](https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022).
