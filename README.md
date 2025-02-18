@@ -13,6 +13,9 @@ Blank and Null dataset that can be populated were done by comparing to relevant 
 
 4. Removing Redundant Rows and Columns  
 Rows that have both total_laid_off and percentage_laid_off as blank or null values were deleted because they will serve no function in subsequent Exploratory Data Analysis. Also, the Row_Number column that was created in the earlier stages of the data cleaning to remove duplicates was deleted because it is redundant and would not be used for further analysis.
-## EXLORATORY DATA ANALYSIS AND FINDINGS
+## EXLORATORY DATA ANALYSIS AND FINDINGS  
+The analysis of the dataset gave a general insight on the layoffs:  
+-Maximum number laid off from a company within a day was about 12,000 people.  
+-The percentage laid off was also investigated to see if there were any company that laid off all the staff. The result of this query showed that the companies that had 100 percent lay offs were mostly startups.
 
 
