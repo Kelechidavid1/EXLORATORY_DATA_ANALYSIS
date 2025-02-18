@@ -26,19 +26,19 @@ The analysis of the dataset gave a general insight on the layoffs:
 The dataset analysis reveals significant patterns and trends in layoffs across different companies, industries, and time periods. Here are the key insights:
 
 1. Large-Scale Layoffs Were Common in Big Tech.  
--The highest single-day layoff recorded in the dataset was about 12,000 employees. This indicates that companies—especially in the tech sector—often conducted mass layoffs in large batches rather than gradually reducing staff.
--Amazon led in total layoffs, with 18,150 employees affected, followed by other major tech firms like Google, Meta, Salesforce, and Microsoft.
+-The highest single-day layoff recorded in the dataset was about 12,000 employees. This indicates that companies—especially in the tech sector—often conducted mass layoffs in large batches rather than gradually reducing staff.  
+-Amazon led in total layoffs, with 18,150 employees affected, followed by other major tech firms like Google, Meta, Salesforce, and Microsoft.  
 -This pattern suggests that large tech companies were significantly impacted by market conditions, potentially due to overhiring during the pandemic and economic downturns in subsequent years.
 2. Startups Were the Most Vulnerable.  
--Several companies had 100% of their workforce laid off, meaning they completely shut down. Most of these were startups, highlighting their vulnerability to economic downturns and funding shortages.
+-Several companies had 100% of their workforce laid off, meaning they completely shut down. Most of these were startups, highlighting their vulnerability to economic downturns and funding shortages.  
 -This suggests that startups often operate on tight financial margins, and when economic conditions worsen, they are more likely to collapse rather than implement partial layoffs.
 3. Industry Trends: Consumer & Retail Were Hit the Hardest.  
--The consumer and retail sectors experienced the highest layoffs, with 45,182 and 43,613 employees affected, respectively.
--This trend indicates that businesses in these industries faced strong economic pressures, possibly due to changes in consumer behavior, inflation, or supply chain disruptions.
--The high layoffs in retail suggest a shift toward e-commerce and automation, reducing the need for a large workforce in traditional retail.
+-The consumer and retail sectors experienced the highest layoffs, with 45,182 and 43,613 employees affected, respectively.  
+-This trend indicates that businesses in these industries faced strong economic pressures, possibly due to changes in consumer behavior, inflation, or supply chain disruptions.  
+-The high layoffs in retail suggest a shift toward e-commerce and automation, reducing the need for a large workforce in traditional retail.  
 4. 2022 Was the Peak Year for Layoffs.  
--Among the four years analyzed (2020-2023), 2022 recorded the highest number of layoffs, followed by 2023, 2020, and 2021 in descending order.
--This trend suggests that while 2020 (the start of the pandemic) led to some initial layoffs, companies recovered in 2021 before massive job cuts in 2022 due to economic uncertainty, rising interest rates, and cost-cutting strategies.
+-Among the four years analyzed (2020-2023), 2022 recorded the highest number of layoffs, followed by 2023, 2020, and 2021 in descending order.  
+-This trend suggests that while 2020 (the start of the pandemic) led to some initial layoffs, companies recovered in 2021 before massive job cuts in 2022 due to economic uncertainty, rising interest rates, and cost-cutting strategies.  
 
 
 
