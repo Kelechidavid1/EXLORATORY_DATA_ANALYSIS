@@ -19,7 +19,8 @@ The analysis of the dataset gave a general insight on the layoffs:
 -The percentage laid-off was also investigated to see if there were any company that laid-off all the staff. The result of this query showed that the companies that had 100 percent layoffs were mostly startups.  
 -Amazon also had the highest nimber of lay offs within the period of time under investigation as they had a total of 18,150 layoffs. Google, Meta, Salesforce, and Microsoft followed respectively.  
 -When these companies are broken down by industries, the consumer and retail had the higest layoffs within the period of 3 years with 45,182 and 43,613 respectively.  
--Also, within the 4 years captured by the dataset (2020-2023), 2022 had the most layoffs with 2023,2020 and 2021 coming in as second, third and fourth respectively.
+-Also, within the 4 years captured by the dataset (2020-2023), 2022 had the most layoffs with 2023,2020 and 2021 coming in as second, third and fourth respectively.  
+-Common Table Expression (CTE) was used to find the rolling total of laid-offs across the months for the 4 years being looked at.
 
 
 
