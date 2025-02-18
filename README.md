@@ -40,6 +40,12 @@ The dataset analysis reveals significant patterns and trends in layoffs across d
 -Among the four years analyzed (2020-2023), 2022 recorded the highest number of layoffs, followed by 2023, 2020, and 2021 in descending order.  
 -This trend suggests that while 2020 (the start of the pandemic) led to some initial layoffs, companies recovered in 2021 before massive job cuts in 2022 due to economic uncertainty, rising interest rates, and cost-cutting strategies.  
 
+## CONCLUSION AND RECOMMENDATIONS  
+Conclusion  
+The analysis shows that big tech companies and startups were hit hardest by layoffs, with 2022 experiencing the highest job cuts. The consumer and retail sectors also faced major layoffs, indicating shifts in market demand and economic conditions.  
+
+Recommendation  
+Companies should adopt proactive workforce planning to avoid mass layoffs, while employees should focus on skill adaptability to stay competitive in uncertain job markets.
 
 
 
